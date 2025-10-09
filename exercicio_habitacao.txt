@@ -1,0 +1,13 @@
+Bairro,Y,X2,X3
+Agua Verde,45,8.5,320
+Batel,52,9.2,385
+Bigorrilho,38,7.8,298
+Centro,28,6.5,245
+Champagnat,58,10.1,425
+Cristo Rei,22,5.8,210
+Juveve,35,7.2,275
+Mercês,48,8.8,350
+Portão,41,8.1,310
+Santa Felicidade,31,6.9,255
+São Francisco,25,6.2,225
+Vila Izabel,37,7.5,285
